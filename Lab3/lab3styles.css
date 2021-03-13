@@ -1,0 +1,28 @@
+input {
+	height-size: 28px;
+	width: 500px;
+	font-size: 25px;	
+}
+button {
+	height-size: 28px;
+	width: 150px;
+	height: 50px;
+	font-size: 25px;
+	border-radius: 50px 50px 50px 50px;
+	outline: none;
+}
+output.answer {
+	font-size: 25px;
+}
+p {
+	font-size: 20px;
+}
+h3 {
+	font-size: 22px;
+}
+h2 {
+	font-size: 25px;
+}
+h1 {
+	font-size: 28px;
+}
