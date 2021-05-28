@@ -1,0 +1,31 @@
+table {
+    border-collapse: initial;
+    border-color: black;
+    text-align: center;
+}
+th,td {
+    padding: 10px;
+}
+th {
+    background: #606060;
+}
+td {
+    background: #fcb750;
+    padding: 20px 20px 20px 20px;
+}
+td.short_input {
+    background: #fcb750;
+    padding: 0px 0px 0px 0px;
+}
+td.orange {
+    background: #fd5a00;
+    padding: 20px 20px 20px 20px;
+}
+textarea {
+    resize: none;
+}
+input.short {
+    width: 40px;
+    height: 40px;
+    text-align:center;
+}
