@@ -1,0 +1,27 @@
+table {
+    border-collapse: initial;
+    border-color: black;
+    text-align: center;
+}
+th,td {
+    padding: 10px;
+}
+th {
+    background: #606060;
+}
+td {
+    background: #fcb750;
+    padding: 15px 15px 15px 15px;
+
+}
+td.orange {
+    background: #fd5a00;
+    padding: 20px 20px 20px 20px;
+}
+textarea {
+    resize: none;
+}
+input.tab {
+    width: 30px;
+    height: 30px;
+}
